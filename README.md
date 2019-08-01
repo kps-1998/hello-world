@@ -6,5 +6,5 @@
 
 Hi all,
 
-I am new to Github. Please save me!
+I am new to Github.
 
